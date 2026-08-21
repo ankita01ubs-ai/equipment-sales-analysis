@@ -1,0 +1,801 @@
+Date,Invoice,Customer,Product,Category,Qty,Unit,Total,GST%,City
+1/1/2026,INV1001,Tata Steel 1,Chain Pulley Block,Rigging,12,3123,37476,18,Noida
+1/2/2026,INV1002,Larsen & Toubro 1,Chain Sling,Safety,5,4787,23935,18,Jaipur
+1/3/2026,INV1003,JSW Steel 1,Chain Pulley Block,Lifting,19,3116,59204,18,Jaipur
+1/4/2026,INV1004,Jindal Steel 1,Chain Sling,Lifting,10,4957,49570,18,Jaipur
+1/5/2026,INV1005,BHEL 1,Web Sling,Rigging,2,6520,13040,18,Faridabad
+1/6/2026,INV1006,Tata Steel 2,Chain Sling,Lifting,18,6500,117000,18,Faridabad
+1/7/2026,INV1007,Larsen & Toubro 2,Eye Bolt,Lifting,2,5722,11444,18,Faridabad
+1/8/2026,INV1008,JSW Steel 2,Shackle,Rigging,20,2863,57260,18,Gurugram
+1/9/2026,INV1009,Jindal Steel 2,Chain Pulley Block,Rigging,14,4442,62188,18,Gurugram
+1/10/2026,INV1010,BHEL 2,Web Sling,Rigging,16,4488,71808,18,Jaipur
+1/11/2026,INV1011,Tata Steel 3,Chain Pulley Block,Safety,11,5693,62623,18,Noida
+1/12/2026,INV1012,Larsen & Toubro 3,Wire Rope,Rigging,10,6729,67290,18,Jaipur
+1/13/2026,INV1013,JSW Steel 3,Web Sling,Rigging,19,1103,20957,18,Gurugram
+1/14/2026,INV1014,Jindal Steel 3,Wire Rope,Lifting,10,6116,61160,18,Delhi
+1/15/2026,INV1015,BHEL 3,Wire Rope,Safety,13,1490,19370,18,Noida
+1/16/2026,INV1016,Tata Steel 4,Eye Bolt,Rigging,20,6770,135400,18,Gurugram
+1/17/2026,INV1017,Larsen & Toubro 4,Shackle,Safety,15,5399,80985,18,Gurugram
+1/18/2026,INV1018,JSW Steel 4,Web Sling,Rigging,10,1269,12690,18,Gurugram
+1/19/2026,INV1019,Jindal Steel 4,Wire Rope,Lifting,18,1858,33444,18,Jaipur
+1/20/2026,INV1020,BHEL 4,Chain Pulley Block,Rigging,15,4523,67845,18,Noida
+1/21/2026,INV1021,Tata Steel 5,Shackle,Safety,10,1790,17900,18,Jaipur
+1/22/2026,INV1022,Larsen & Toubro 5,Web Sling,Safety,14,1968,27552,18,Noida
+1/23/2026,INV1023,JSW Steel 5,Chain Sling,Rigging,9,2570,23130,18,Delhi
+1/24/2026,INV1024,Jindal Steel 5,Chain Sling,Safety,20,1423,28460,18,Noida
+1/25/2026,INV1025,BHEL 5,Chain Sling,Rigging,4,546,2184,18,Gurugram
+1/26/2026,INV1026,Tata Steel 6,Hook,Safety,6,1730,10380,18,Jaipur
+1/27/2026,INV1027,Larsen & Toubro 6,Chain Pulley Block,Rigging,3,3881,11643,18,Jaipur
+1/28/2026,INV1028,JSW Steel 6,Chain Pulley Block,Safety,16,3640,58240,18,Delhi
+1/29/2026,INV1029,Jindal Steel 6,Web Sling,Safety,15,830,12450,18,Faridabad
+1/30/2026,INV1030,BHEL 6,Wire Rope,Lifting,18,2192,39456,18,Noida
+1/31/2026,INV1031,Tata Steel 7,Web Sling,Safety,3,2728,8184,18,Gurugram
+2/1/2026,INV1032,Larsen & Toubro 7,Chain Sling,Safety,16,5272,84352,18,Delhi
+2/2/2026,INV1033,JSW Steel 7,Wire Rope,Safety,20,4075,81500,18,Delhi
+2/3/2026,INV1034,Jindal Steel 7,Web Sling,Rigging,10,5149,51490,18,Noida
+2/4/2026,INV1035,BHEL 7,Eye Bolt,Safety,17,3420,58140,18,Gurugram
+2/5/2026,INV1036,Tata Steel 8,Chain Pulley Block,Rigging,5,6168,30840,18,Faridabad
+2/6/2026,INV1037,Larsen & Toubro 8,Eye Bolt,Rigging,12,1675,20100,18,Delhi
+2/7/2026,INV1038,JSW Steel 8,Wire Rope,Safety,19,4754,90326,18,Jaipur
+2/8/2026,INV1039,Jindal Steel 8,Turnbuckle,Safety,4,5616,22464,18,Faridabad
+2/9/2026,INV1040,BHEL 8,Chain Sling,Lifting,12,4200,50400,18,Gurugram
+2/10/2026,INV1041,Tata Steel 9,Chain Sling,Lifting,2,7430,14860,18,Delhi
+2/11/2026,INV1042,Larsen & Toubro 9,Hook,Rigging,9,7340,66060,18,Faridabad
+2/12/2026,INV1043,JSW Steel 9,Hook,Rigging,12,6168,74016,18,Delhi
+2/13/2026,INV1044,Jindal Steel 9,Wire Rope,Safety,5,1889,9445,18,Jaipur
+2/14/2026,INV1045,BHEL 9,Shackle,Safety,15,6013,90195,18,Gurugram
+2/15/2026,INV1046,Tata Steel 10,Shackle,Rigging,1,1349,1349,18,Noida
+2/16/2026,INV1047,Larsen & Toubro 10,Wire Rope,Rigging,8,1814,14512,18,Gurugram
+2/17/2026,INV1048,JSW Steel 10,Shackle,Rigging,5,2688,13440,18,Jaipur
+2/18/2026,INV1049,Jindal Steel 10,Hook,Rigging,11,7502,82522,18,Faridabad
+2/19/2026,INV1050,BHEL 10,Chain Sling,Safety,16,1401,22416,18,Faridabad
+2/20/2026,INV1051,Tata Steel 11,Wire Rope,Rigging,6,3668,22008,18,Faridabad
+2/21/2026,INV1052,Larsen & Toubro 11,Hook,Safety,8,6243,49944,18,Gurugram
+2/22/2026,INV1053,JSW Steel 11,Shackle,Safety,18,3461,62298,18,Noida
+2/23/2026,INV1054,Jindal Steel 11,Chain Pulley Block,Rigging,9,7992,71928,18,Gurugram
+2/24/2026,INV1055,BHEL 11,Wire Rope,Lifting,14,7452,104328,18,Noida
+2/25/2026,INV1056,Tata Steel 12,Turnbuckle,Lifting,2,7655,15310,18,Gurugram
+2/26/2026,INV1057,Larsen & Toubro 12,Eye Bolt,Lifting,1,2540,2540,18,Jaipur
+2/27/2026,INV1058,JSW Steel 12,Chain Pulley Block,Lifting,11,3527,38797,18,Noida
+2/28/2026,INV1059,Jindal Steel 12,Turnbuckle,Safety,18,6264,112752,18,Delhi
+3/1/2026,INV1060,BHEL 12,Wire Rope,Rigging,2,2178,4356,18,Gurugram
+3/2/2026,INV1061,Tata Steel 13,Hook,Rigging,15,3904,58560,18,Gurugram
+3/3/2026,INV1062,Larsen & Toubro 13,Chain Sling,Rigging,4,1804,7216,18,Gurugram
+3/4/2026,INV1063,JSW Steel 13,Chain Pulley Block,Safety,17,2071,35207,18,Gurugram
+3/5/2026,INV1064,Jindal Steel 13,Chain Pulley Block,Lifting,4,6615,26460,18,Faridabad
+3/6/2026,INV1065,BHEL 13,Eye Bolt,Rigging,8,7562,60496,18,Jaipur
+3/7/2026,INV1066,Tata Steel 14,Turnbuckle,Lifting,10,7758,77580,18,Faridabad
+3/8/2026,INV1067,Larsen & Toubro 14,Wire Rope,Rigging,18,1197,21546,18,Faridabad
+3/9/2026,INV1068,JSW Steel 14,Chain Sling,Safety,17,1918,32606,18,Delhi
+3/10/2026,INV1069,Jindal Steel 14,Wire Rope,Safety,17,3201,54417,18,Noida
+3/11/2026,INV1070,BHEL 14,Eye Bolt,Safety,5,2882,14410,18,Delhi
+3/12/2026,INV1071,Tata Steel 15,Shackle,Safety,20,4636,92720,18,Delhi
+3/13/2026,INV1072,Larsen & Toubro 15,Chain Sling,Lifting,8,5040,40320,18,Delhi
+3/14/2026,INV1073,JSW Steel 15,Turnbuckle,Lifting,5,7776,38880,18,Delhi
+3/15/2026,INV1074,Jindal Steel 15,Chain Sling,Rigging,14,4616,64624,18,Delhi
+3/16/2026,INV1075,BHEL 15,Web Sling,Lifting,8,7673,61384,18,Faridabad
+3/17/2026,INV1076,Tata Steel 16,Wire Rope,Rigging,7,4239,29673,18,Faridabad
+3/18/2026,INV1077,Larsen & Toubro 16,Shackle,Safety,7,3254,22778,18,Delhi
+3/19/2026,INV1078,JSW Steel 16,Turnbuckle,Lifting,10,7138,71380,18,Jaipur
+3/20/2026,INV1079,Jindal Steel 16,Wire Rope,Lifting,18,2491,44838,18,Noida
+3/21/2026,INV1080,BHEL 16,Shackle,Lifting,13,3342,43446,18,Noida
+3/22/2026,INV1081,Tata Steel 17,Web Sling,Lifting,9,3977,35793,18,Gurugram
+3/23/2026,INV1082,Larsen & Toubro 17,Hook,Safety,6,3231,19386,18,Noida
+3/24/2026,INV1083,JSW Steel 17,Chain Pulley Block,Rigging,17,1965,33405,18,Noida
+3/25/2026,INV1084,Jindal Steel 17,Shackle,Safety,2,7032,14064,18,Faridabad
+3/26/2026,INV1085,BHEL 17,Chain Sling,Rigging,6,1141,6846,18,Noida
+3/27/2026,INV1086,Tata Steel 18,Hook,Lifting,18,7706,138708,18,Faridabad
+3/28/2026,INV1087,Larsen & Toubro 18,Wire Rope,Lifting,20,4330,86600,18,Delhi
+3/29/2026,INV1088,JSW Steel 18,Shackle,Rigging,17,6525,110925,18,Jaipur
+3/30/2026,INV1089,Jindal Steel 18,Chain Pulley Block,Rigging,15,4657,69855,18,Gurugram
+3/31/2026,INV1090,BHEL 18,Chain Pulley Block,Safety,8,5503,44024,18,Faridabad
+4/1/2026,INV1091,Tata Steel 19,Wire Rope,Lifting,10,2343,23430,18,Noida
+4/2/2026,INV1092,Larsen & Toubro 19,Turnbuckle,Lifting,12,1705,20460,18,Faridabad
+4/3/2026,INV1093,JSW Steel 19,Shackle,Lifting,18,6700,120600,18,Jaipur
+4/4/2026,INV1094,Jindal Steel 19,Turnbuckle,Rigging,16,2240,35840,18,Jaipur
+4/5/2026,INV1095,BHEL 19,Chain Pulley Block,Safety,6,2348,14088,18,Noida
+4/6/2026,INV1096,Tata Steel 20,Web Sling,Safety,7,3535,24745,18,Jaipur
+4/7/2026,INV1097,Larsen & Toubro 20,Chain Pulley Block,Safety,4,2391,9564,18,Noida
+4/8/2026,INV1098,JSW Steel 20,Web Sling,Safety,5,620,3100,18,Jaipur
+4/9/2026,INV1099,Jindal Steel 20,Turnbuckle,Safety,9,7218,64962,18,Delhi
+4/10/2026,INV1100,BHEL 20,Shackle,Safety,5,5332,26660,18,Faridabad
+4/11/2026,INV1101,Tata Steel 21,Web Sling,Lifting,14,2727,38178,18,Faridabad
+4/12/2026,INV1102,Larsen & Toubro 21,Turnbuckle,Lifting,6,5517,33102,18,Gurugram
+4/13/2026,INV1103,JSW Steel 21,Hook,Safety,15,3819,57285,18,Gurugram
+4/14/2026,INV1104,Jindal Steel 21,Hook,Lifting,10,2397,23970,18,Gurugram
+4/15/2026,INV1105,BHEL 21,Chain Pulley Block,Lifting,19,4571,86849,18,Noida
+4/16/2026,INV1106,Tata Steel 22,Shackle,Rigging,18,1616,29088,18,Jaipur
+4/17/2026,INV1107,Larsen & Toubro 22,Turnbuckle,Safety,19,7816,148504,18,Noida
+4/18/2026,INV1108,JSW Steel 22,Chain Pulley Block,Safety,8,4814,38512,18,Faridabad
+4/19/2026,INV1109,Jindal Steel 22,Eye Bolt,Safety,11,2486,27346,18,Delhi
+4/20/2026,INV1110,BHEL 22,Web Sling,Lifting,16,5449,87184,18,Gurugram
+4/21/2026,INV1111,Tata Steel 23,Chain Sling,Rigging,20,3079,61580,18,Gurugram
+4/22/2026,INV1112,Larsen & Toubro 23,Eye Bolt,Safety,18,6489,116802,18,Jaipur
+4/23/2026,INV1113,JSW Steel 23,Web Sling,Rigging,19,4245,80655,18,Faridabad
+4/24/2026,INV1114,Jindal Steel 23,Eye Bolt,Lifting,6,3429,20574,18,Noida
+4/25/2026,INV1115,BHEL 23,Turnbuckle,Safety,10,2230,22300,18,Delhi
+4/26/2026,INV1116,Tata Steel 24,Web Sling,Rigging,18,6652,119736,18,Noida
+4/27/2026,INV1117,Larsen & Toubro 24,Web Sling,Rigging,4,6041,24164,18,Gurugram
+4/28/2026,INV1118,JSW Steel 24,Wire Rope,Rigging,11,7373,81103,18,Jaipur
+4/29/2026,INV1119,Jindal Steel 24,Chain Pulley Block,Safety,12,1789,21468,18,Faridabad
+4/30/2026,INV1120,BHEL 24,Web Sling,Lifting,10,5169,51690,18,Delhi
+5/1/2026,INV1121,Tata Steel 25,Turnbuckle,Lifting,15,5420,81300,18,Faridabad
+5/2/2026,INV1122,Larsen & Toubro 25,Chain Pulley Block,Lifting,7,3320,23240,18,Gurugram
+5/3/2026,INV1123,JSW Steel 25,Web Sling,Safety,2,6404,12808,18,Gurugram
+5/4/2026,INV1124,Jindal Steel 25,Turnbuckle,Rigging,10,3800,38000,18,Jaipur
+5/5/2026,INV1125,BHEL 25,Hook,Rigging,12,537,6444,18,Noida
+5/6/2026,INV1126,Tata Steel 26,Wire Rope,Rigging,11,3801,41811,18,Noida
+5/7/2026,INV1127,Larsen & Toubro 26,Hook,Safety,11,3105,34155,18,Delhi
+5/8/2026,INV1128,JSW Steel 26,Web Sling,Safety,10,7511,75110,18,Faridabad
+5/9/2026,INV1129,Jindal Steel 26,Shackle,Rigging,16,6709,107344,18,Noida
+5/10/2026,INV1130,BHEL 26,Turnbuckle,Lifting,6,4717,28302,18,Delhi
+5/11/2026,INV1131,Tata Steel 27,Web Sling,Safety,1,2469,2469,18,Jaipur
+5/12/2026,INV1132,Larsen & Toubro 27,Eye Bolt,Safety,5,1849,9245,18,Gurugram
+5/13/2026,INV1133,JSW Steel 27,Turnbuckle,Lifting,18,5721,102978,18,Noida
+5/14/2026,INV1134,Jindal Steel 27,Eye Bolt,Safety,8,5177,41416,18,Faridabad
+5/15/2026,INV1135,BHEL 27,Chain Sling,Safety,11,6745,74195,18,Faridabad
+5/16/2026,INV1136,Tata Steel 28,Turnbuckle,Lifting,2,5759,11518,18,Gurugram
+5/17/2026,INV1137,Larsen & Toubro 28,Eye Bolt,Lifting,10,5732,57320,18,Noida
+5/18/2026,INV1138,JSW Steel 28,Shackle,Lifting,6,1685,10110,18,Jaipur
+5/19/2026,INV1139,Jindal Steel 28,Wire Rope,Rigging,10,6845,68450,18,Jaipur
+5/20/2026,INV1140,BHEL 28,Chain Pulley Block,Safety,13,7488,97344,18,Jaipur
+5/21/2026,INV1141,Tata Steel 29,Chain Pulley Block,Safety,7,2025,14175,18,Delhi
+5/22/2026,INV1142,Larsen & Toubro 29,Turnbuckle,Lifting,1,6081,6081,18,Faridabad
+5/23/2026,INV1143,JSW Steel 29,Shackle,Safety,10,5451,54510,18,Delhi
+5/24/2026,INV1144,Jindal Steel 29,Chain Sling,Safety,6,4843,29058,18,Jaipur
+5/25/2026,INV1145,BHEL 29,Turnbuckle,Safety,1,7320,7320,18,Jaipur
+5/26/2026,INV1146,Tata Steel 30,Turnbuckle,Safety,8,1303,10424,18,Noida
+5/27/2026,INV1147,Larsen & Toubro 30,Shackle,Rigging,3,1066,3198,18,Noida
+5/28/2026,INV1148,JSW Steel 30,Turnbuckle,Lifting,6,4003,24018,18,Delhi
+5/29/2026,INV1149,Jindal Steel 30,Chain Pulley Block,Lifting,8,4090,32720,18,Noida
+5/30/2026,INV1150,BHEL 30,Chain Sling,Lifting,20,6759,135180,18,Delhi
+5/31/2026,INV1151,Tata Steel 31,Chain Sling,Lifting,7,1369,9583,18,Faridabad
+6/1/2026,INV1152,Larsen & Toubro 31,Chain Pulley Block,Lifting,1,5645,5645,18,Jaipur
+6/2/2026,INV1153,JSW Steel 31,Shackle,Safety,3,5709,17127,18,Jaipur
+6/3/2026,INV1154,Jindal Steel 31,Turnbuckle,Safety,2,4129,8258,18,Noida
+6/4/2026,INV1155,BHEL 31,Web Sling,Safety,15,3139,47085,18,Noida
+6/5/2026,INV1156,Tata Steel 32,Web Sling,Rigging,9,6407,57663,18,Faridabad
+6/6/2026,INV1157,Larsen & Toubro 32,Eye Bolt,Safety,19,4370,83030,18,Jaipur
+6/7/2026,INV1158,JSW Steel 32,Wire Rope,Rigging,8,7329,58632,18,Gurugram
+6/8/2026,INV1159,Jindal Steel 32,Turnbuckle,Safety,14,3233,45262,18,Delhi
+6/9/2026,INV1160,BHEL 32,Wire Rope,Safety,4,6766,27064,18,Gurugram
+6/10/2026,INV1161,Tata Steel 33,Hook,Safety,9,715,6435,18,Noida
+6/11/2026,INV1162,Larsen & Toubro 33,Hook,Safety,12,3198,38376,18,Noida
+6/12/2026,INV1163,JSW Steel 33,Shackle,Lifting,18,3574,64332,18,Noida
+6/13/2026,INV1164,Jindal Steel 33,Shackle,Lifting,11,4257,46827,18,Noida
+6/14/2026,INV1165,BHEL 33,Chain Sling,Safety,15,7808,117120,18,Noida
+6/15/2026,INV1166,Tata Steel 34,Web Sling,Lifting,14,1296,18144,18,Delhi
+6/16/2026,INV1167,Larsen & Toubro 34,Eye Bolt,Safety,11,2615,28765,18,Gurugram
+6/17/2026,INV1168,JSW Steel 34,Eye Bolt,Safety,16,3248,51968,18,Faridabad
+6/18/2026,INV1169,Jindal Steel 34,Chain Pulley Block,Lifting,12,5255,63060,18,Jaipur
+6/19/2026,INV1170,BHEL 34,Chain Pulley Block,Lifting,20,3269,65380,18,Faridabad
+6/20/2026,INV1171,Tata Steel 35,Chain Pulley Block,Safety,1,7563,7563,18,Jaipur
+6/21/2026,INV1172,Larsen & Toubro 35,Hook,Lifting,18,3081,55458,18,Gurugram
+6/22/2026,INV1173,JSW Steel 35,Hook,Lifting,5,7824,39120,18,Delhi
+6/23/2026,INV1174,Jindal Steel 35,Chain Sling,Safety,15,3301,49515,18,Delhi
+6/24/2026,INV1175,BHEL 35,Chain Pulley Block,Rigging,6,6285,37710,18,Delhi
+6/25/2026,INV1176,Tata Steel 36,Chain Pulley Block,Rigging,9,4736,42624,18,Jaipur
+6/26/2026,INV1177,Larsen & Toubro 36,Chain Pulley Block,Lifting,20,7060,141200,18,Faridabad
+6/27/2026,INV1178,JSW Steel 36,Shackle,Safety,10,560,5600,18,Noida
+6/28/2026,INV1179,Jindal Steel 36,Web Sling,Safety,2,7073,14146,18,Noida
+6/29/2026,INV1180,BHEL 36,Chain Pulley Block,Lifting,11,6350,69850,18,Delhi
+1/1/2026,INV1181,Tata Steel 37,Wire Rope,Lifting,11,6421,70631,18,Gurugram
+1/2/2026,INV1182,Larsen & Toubro 37,Web Sling,Rigging,19,4544,86336,18,Noida
+1/3/2026,INV1183,JSW Steel 37,Turnbuckle,Lifting,19,5280,100320,18,Noida
+1/4/2026,INV1184,Jindal Steel 37,Chain Sling,Lifting,13,1679,21827,18,Jaipur
+1/5/2026,INV1185,BHEL 37,Chain Sling,Rigging,2,1828,3656,18,Gurugram
+1/6/2026,INV1186,Tata Steel 38,Chain Sling,Lifting,5,1614,8070,18,Delhi
+1/7/2026,INV1187,Larsen & Toubro 38,Wire Rope,Lifting,9,2504,22536,18,Gurugram
+1/8/2026,INV1188,JSW Steel 38,Chain Pulley Block,Lifting,13,2298,29874,18,Delhi
+1/9/2026,INV1189,Jindal Steel 38,Web Sling,Safety,20,5564,111280,18,Faridabad
+1/10/2026,INV1190,BHEL 38,Hook,Lifting,10,1238,12380,18,Gurugram
+1/11/2026,INV1191,Tata Steel 39,Wire Rope,Safety,6,7407,44442,18,Faridabad
+1/12/2026,INV1192,Larsen & Toubro 39,Wire Rope,Rigging,6,6254,37524,18,Noida
+1/13/2026,INV1193,JSW Steel 39,Wire Rope,Rigging,19,2147,40793,18,Gurugram
+1/14/2026,INV1194,Jindal Steel 39,Chain Pulley Block,Rigging,18,3781,68058,18,Jaipur
+1/15/2026,INV1195,BHEL 39,Hook,Rigging,17,1420,24140,18,Gurugram
+1/16/2026,INV1196,Tata Steel 40,Web Sling,Lifting,7,6202,43414,18,Faridabad
+1/17/2026,INV1197,Larsen & Toubro 40,Shackle,Safety,17,2478,42126,18,Faridabad
+1/18/2026,INV1198,JSW Steel 40,Turnbuckle,Rigging,12,7313,87756,18,Gurugram
+1/19/2026,INV1199,Jindal Steel 40,Chain Pulley Block,Safety,2,6169,12338,18,Faridabad
+1/20/2026,INV1200,BHEL 40,Eye Bolt,Lifting,13,2530,32890,18,Faridabad
+1/21/2026,INV1201,Tata Steel 41,Hook,Lifting,7,6734,47138,18,Noida
+1/22/2026,INV1202,Larsen & Toubro 41,Wire Rope,Rigging,20,4760,95200,18,Gurugram
+1/23/2026,INV1203,JSW Steel 41,Eye Bolt,Safety,11,2210,24310,18,Delhi
+1/24/2026,INV1204,Jindal Steel 41,Web Sling,Lifting,19,4867,92473,18,Jaipur
+1/25/2026,INV1205,BHEL 41,Chain Pulley Block,Safety,16,1185,18960,18,Jaipur
+1/26/2026,INV1206,Tata Steel 42,Web Sling,Lifting,14,3839,53746,18,Delhi
+1/27/2026,INV1207,Larsen & Toubro 42,Web Sling,Lifting,6,4282,25692,18,Jaipur
+1/28/2026,INV1208,JSW Steel 42,Chain Sling,Lifting,6,4576,27456,18,Gurugram
+1/29/2026,INV1209,Jindal Steel 42,Turnbuckle,Safety,18,6671,120078,18,Jaipur
+1/30/2026,INV1210,BHEL 42,Web Sling,Lifting,4,1083,4332,18,Faridabad
+1/31/2026,INV1211,Tata Steel 43,Eye Bolt,Lifting,20,3532,70640,18,Jaipur
+2/1/2026,INV1212,Larsen & Toubro 43,Web Sling,Safety,6,7656,45936,18,Delhi
+2/2/2026,INV1213,JSW Steel 43,Wire Rope,Lifting,11,2660,29260,18,Gurugram
+2/3/2026,INV1214,Jindal Steel 43,Web Sling,Lifting,14,6569,91966,18,Gurugram
+2/4/2026,INV1215,BHEL 43,Web Sling,Rigging,3,4822,14466,18,Jaipur
+2/5/2026,INV1216,Tata Steel 44,Eye Bolt,Lifting,3,3167,9501,18,Delhi
+2/6/2026,INV1217,Larsen & Toubro 44,Web Sling,Rigging,12,6923,83076,18,Gurugram
+2/7/2026,INV1218,JSW Steel 44,Hook,Lifting,1,7812,7812,18,Delhi
+2/8/2026,INV1219,Jindal Steel 44,Wire Rope,Lifting,18,3994,71892,18,Delhi
+2/9/2026,INV1220,BHEL 44,Chain Pulley Block,Rigging,15,3240,48600,18,Gurugram
+2/10/2026,INV1221,Tata Steel 45,Eye Bolt,Rigging,5,6075,30375,18,Gurugram
+2/11/2026,INV1222,Larsen & Toubro 45,Shackle,Lifting,7,4131,28917,18,Faridabad
+2/12/2026,INV1223,JSW Steel 45,Wire Rope,Lifting,11,7692,84612,18,Gurugram
+2/13/2026,INV1224,Jindal Steel 45,Chain Sling,Lifting,7,1893,13251,18,Gurugram
+2/14/2026,INV1225,BHEL 45,Chain Pulley Block,Lifting,12,5180,62160,18,Delhi
+2/15/2026,INV1226,Tata Steel 46,Hook,Lifting,10,7589,75890,18,Gurugram
+2/16/2026,INV1227,Larsen & Toubro 46,Shackle,Rigging,18,3800,68400,18,Gurugram
+2/17/2026,INV1228,JSW Steel 46,Wire Rope,Lifting,1,6497,6497,18,Delhi
+2/18/2026,INV1229,Jindal Steel 46,Eye Bolt,Rigging,18,5459,98262,18,Jaipur
+2/19/2026,INV1230,BHEL 46,Chain Pulley Block,Lifting,8,7866,62928,18,Noida
+2/20/2026,INV1231,Tata Steel 47,Turnbuckle,Lifting,14,3528,49392,18,Faridabad
+2/21/2026,INV1232,Larsen & Toubro 47,Chain Pulley Block,Rigging,9,5700,51300,18,Jaipur
+2/22/2026,INV1233,JSW Steel 47,Chain Sling,Safety,15,7675,115125,18,Jaipur
+2/23/2026,INV1234,Jindal Steel 47,Shackle,Lifting,20,4736,94720,18,Faridabad
+2/24/2026,INV1235,BHEL 47,Turnbuckle,Lifting,5,5009,25045,18,Gurugram
+2/25/2026,INV1236,Tata Steel 48,Web Sling,Safety,12,6167,74004,18,Noida
+2/26/2026,INV1237,Larsen & Toubro 48,Chain Sling,Rigging,1,1915,1915,18,Jaipur
+2/27/2026,INV1238,JSW Steel 48,Eye Bolt,Rigging,1,7426,7426,18,Noida
+2/28/2026,INV1239,Jindal Steel 48,Hook,Safety,6,6989,41934,18,Delhi
+3/1/2026,INV1240,BHEL 48,Turnbuckle,Safety,2,7095,14190,18,Noida
+3/2/2026,INV1241,Tata Steel 49,Eye Bolt,Lifting,12,1423,17076,18,Gurugram
+3/3/2026,INV1242,Larsen & Toubro 49,Eye Bolt,Safety,10,613,6130,18,Jaipur
+3/4/2026,INV1243,JSW Steel 49,Eye Bolt,Safety,12,6274,75288,18,Delhi
+3/5/2026,INV1244,Jindal Steel 49,Hook,Rigging,12,3170,38040,18,Jaipur
+3/6/2026,INV1245,BHEL 49,Turnbuckle,Rigging,3,4872,14616,18,Delhi
+3/7/2026,INV1246,Tata Steel 50,Turnbuckle,Rigging,18,7394,133092,18,Delhi
+3/8/2026,INV1247,Larsen & Toubro 50,Hook,Safety,3,3173,9519,18,Jaipur
+3/9/2026,INV1248,JSW Steel 50,Chain Sling,Safety,11,2931,32241,18,Jaipur
+3/10/2026,INV1249,Jindal Steel 50,Chain Sling,Safety,4,7696,30784,18,Faridabad
+3/11/2026,INV1250,BHEL 50,Eye Bolt,Rigging,18,5084,91512,18,Faridabad
+3/12/2026,INV1251,Tata Steel 51,Turnbuckle,Lifting,7,7794,54558,18,Noida
+3/13/2026,INV1252,Larsen & Toubro 51,Hook,Lifting,4,3985,15940,18,Faridabad
+3/14/2026,INV1253,JSW Steel 51,Chain Pulley Block,Lifting,17,894,15198,18,Noida
+3/15/2026,INV1254,Jindal Steel 51,Shackle,Lifting,19,3200,60800,18,Gurugram
+3/16/2026,INV1255,BHEL 51,Turnbuckle,Lifting,17,4524,76908,18,Faridabad
+3/17/2026,INV1256,Tata Steel 52,Turnbuckle,Safety,17,4101,69717,18,Jaipur
+3/18/2026,INV1257,Larsen & Toubro 52,Chain Pulley Block,Rigging,3,4117,12351,18,Jaipur
+3/19/2026,INV1258,JSW Steel 52,Shackle,Safety,10,7942,79420,18,Gurugram
+3/20/2026,INV1259,Jindal Steel 52,Chain Sling,Safety,2,1692,3384,18,Delhi
+3/21/2026,INV1260,BHEL 52,Chain Sling,Safety,7,6355,44485,18,Delhi
+3/22/2026,INV1261,Tata Steel 53,Web Sling,Safety,15,6292,94380,18,Delhi
+3/23/2026,INV1262,Larsen & Toubro 53,Shackle,Safety,15,1221,18315,18,Delhi
+3/24/2026,INV1263,JSW Steel 53,Turnbuckle,Lifting,14,5503,77042,18,Faridabad
+3/25/2026,INV1264,Jindal Steel 53,Shackle,Lifting,6,7828,46968,18,Gurugram
+3/26/2026,INV1265,BHEL 53,Shackle,Rigging,11,5857,64427,18,Jaipur
+3/27/2026,INV1266,Tata Steel 54,Eye Bolt,Rigging,4,2424,9696,18,Faridabad
+3/28/2026,INV1267,Larsen & Toubro 54,Wire Rope,Lifting,3,5240,15720,18,Gurugram
+3/29/2026,INV1268,JSW Steel 54,Wire Rope,Safety,6,2336,14016,18,Jaipur
+3/30/2026,INV1269,Jindal Steel 54,Chain Pulley Block,Lifting,9,6736,60624,18,Gurugram
+3/31/2026,INV1270,BHEL 54,Shackle,Lifting,17,4274,72658,18,Faridabad
+4/1/2026,INV1271,Tata Steel 55,Turnbuckle,Rigging,3,1959,5877,18,Faridabad
+4/2/2026,INV1272,Larsen & Toubro 55,Chain Sling,Rigging,10,6595,65950,18,Gurugram
+4/3/2026,INV1273,JSW Steel 55,Chain Sling,Safety,2,1591,3182,18,Jaipur
+4/4/2026,INV1274,Jindal Steel 55,Wire Rope,Safety,4,5260,21040,18,Jaipur
+4/5/2026,INV1275,BHEL 55,Web Sling,Lifting,6,2635,15810,18,Delhi
+4/6/2026,INV1276,Tata Steel 56,Hook,Rigging,13,2258,29354,18,Delhi
+4/7/2026,INV1277,Larsen & Toubro 56,Shackle,Rigging,11,5207,57277,18,Noida
+4/8/2026,INV1278,JSW Steel 56,Turnbuckle,Lifting,11,3513,38643,18,Gurugram
+4/9/2026,INV1279,Jindal Steel 56,Shackle,Lifting,17,5029,85493,18,Noida
+4/10/2026,INV1280,BHEL 56,Wire Rope,Rigging,8,7392,59136,18,Jaipur
+4/11/2026,INV1281,Tata Steel 57,Turnbuckle,Safety,15,1814,27210,18,Noida
+4/12/2026,INV1282,Larsen & Toubro 57,Hook,Safety,2,6118,12236,18,Delhi
+4/13/2026,INV1283,JSW Steel 57,Chain Pulley Block,Lifting,15,691,10365,18,Jaipur
+4/14/2026,INV1284,Jindal Steel 57,Web Sling,Rigging,10,5143,51430,18,Faridabad
+4/15/2026,INV1285,BHEL 57,Eye Bolt,Rigging,1,2509,2509,18,Jaipur
+4/16/2026,INV1286,Tata Steel 58,Wire Rope,Lifting,4,7394,29576,18,Noida
+4/17/2026,INV1287,Larsen & Toubro 58,Eye Bolt,Rigging,6,5415,32490,18,Noida
+4/18/2026,INV1288,JSW Steel 58,Wire Rope,Safety,5,5282,26410,18,Gurugram
+4/19/2026,INV1289,Jindal Steel 58,Turnbuckle,Safety,11,1943,21373,18,Noida
+4/20/2026,INV1290,BHEL 58,Hook,Rigging,12,3769,45228,18,Gurugram
+4/21/2026,INV1291,Tata Steel 59,Chain Pulley Block,Lifting,8,3689,29512,18,Faridabad
+4/22/2026,INV1292,Larsen & Toubro 59,Shackle,Rigging,16,1315,21040,18,Jaipur
+4/23/2026,INV1293,JSW Steel 59,Turnbuckle,Safety,3,6472,19416,18,Gurugram
+4/24/2026,INV1294,Jindal Steel 59,Chain Pulley Block,Lifting,13,960,12480,18,Gurugram
+4/25/2026,INV1295,BHEL 59,Chain Sling,Safety,3,1868,5604,18,Noida
+4/26/2026,INV1296,Tata Steel 60,Chain Pulley Block,Rigging,16,5177,82832,18,Faridabad
+4/27/2026,INV1297,Larsen & Toubro 60,Hook,Lifting,8,2273,18184,18,Gurugram
+4/28/2026,INV1298,JSW Steel 60,Eye Bolt,Safety,12,5560,66720,18,Noida
+4/29/2026,INV1299,Jindal Steel 60,Chain Pulley Block,Safety,6,2428,14568,18,Gurugram
+4/30/2026,INV1300,BHEL 60,Wire Rope,Lifting,12,593,7116,18,Delhi
+5/1/2026,INV1301,Tata Steel 61,Hook,Rigging,7,4964,34748,18,Faridabad
+5/2/2026,INV1302,Larsen & Toubro 61,Turnbuckle,Safety,7,7665,53655,18,Gurugram
+5/3/2026,INV1303,JSW Steel 61,Eye Bolt,Rigging,9,2794,25146,18,Noida
+5/4/2026,INV1304,Jindal Steel 61,Chain Sling,Safety,12,2450,29400,18,Delhi
+5/5/2026,INV1305,BHEL 61,Eye Bolt,Rigging,13,7769,100997,18,Jaipur
+5/6/2026,INV1306,Tata Steel 62,Wire Rope,Safety,13,3736,48568,18,Gurugram
+5/7/2026,INV1307,Larsen & Toubro 62,Chain Sling,Lifting,9,5059,45531,18,Noida
+5/8/2026,INV1308,JSW Steel 62,Web Sling,Lifting,5,846,4230,18,Jaipur
+5/9/2026,INV1309,Jindal Steel 62,Chain Sling,Safety,18,3432,61776,18,Gurugram
+5/10/2026,INV1310,BHEL 62,Hook,Lifting,12,7522,90264,18,Delhi
+5/11/2026,INV1311,Tata Steel 63,Web Sling,Lifting,6,6161,36966,18,Jaipur
+5/12/2026,INV1312,Larsen & Toubro 63,Web Sling,Lifting,2,7348,14696,18,Gurugram
+5/13/2026,INV1313,JSW Steel 63,Turnbuckle,Safety,1,4563,4563,18,Delhi
+5/14/2026,INV1314,Jindal Steel 63,Chain Pulley Block,Safety,17,5023,85391,18,Faridabad
+5/15/2026,INV1315,BHEL 63,Hook,Lifting,7,1047,7329,18,Jaipur
+5/16/2026,INV1316,Tata Steel 64,Turnbuckle,Rigging,10,3344,33440,18,Gurugram
+5/17/2026,INV1317,Larsen & Toubro 64,Turnbuckle,Safety,4,4194,16776,18,Delhi
+5/18/2026,INV1318,JSW Steel 64,Wire Rope,Lifting,10,5718,57180,18,Gurugram
+5/19/2026,INV1319,Jindal Steel 64,Turnbuckle,Lifting,11,3339,36729,18,Noida
+5/20/2026,INV1320,BHEL 64,Eye Bolt,Safety,11,4565,50215,18,Faridabad
+5/21/2026,INV1321,Tata Steel 65,Wire Rope,Lifting,3,6737,20211,18,Gurugram
+5/22/2026,INV1322,Larsen & Toubro 65,Chain Pulley Block,Lifting,6,7992,47952,18,Faridabad
+5/23/2026,INV1323,JSW Steel 65,Chain Pulley Block,Safety,10,7757,77570,18,Delhi
+5/24/2026,INV1324,Jindal Steel 65,Web Sling,Safety,17,3319,56423,18,Jaipur
+5/25/2026,INV1325,BHEL 65,Chain Pulley Block,Safety,19,7755,147345,18,Gurugram
+5/26/2026,INV1326,Tata Steel 66,Web Sling,Rigging,10,7213,72130,18,Gurugram
+5/27/2026,INV1327,Larsen & Toubro 66,Wire Rope,Safety,19,1744,33136,18,Jaipur
+5/28/2026,INV1328,JSW Steel 66,Hook,Lifting,10,5521,55210,18,Delhi
+5/29/2026,INV1329,Jindal Steel 66,Shackle,Safety,8,2602,20816,18,Delhi
+5/30/2026,INV1330,BHEL 66,Chain Sling,Rigging,8,1781,14248,18,Gurugram
+5/31/2026,INV1331,Tata Steel 67,Turnbuckle,Rigging,3,3136,9408,18,Noida
+6/1/2026,INV1332,Larsen & Toubro 67,Wire Rope,Rigging,15,1530,22950,18,Noida
+6/2/2026,INV1333,JSW Steel 67,Shackle,Rigging,8,649,5192,18,Jaipur
+6/3/2026,INV1334,Jindal Steel 67,Chain Pulley Block,Lifting,9,6114,55026,18,Faridabad
+6/4/2026,INV1335,BHEL 67,Hook,Lifting,16,1559,24944,18,Gurugram
+6/5/2026,INV1336,Tata Steel 68,Hook,Rigging,13,5720,74360,18,Faridabad
+6/6/2026,INV1337,Larsen & Toubro 68,Shackle,Lifting,7,6574,46018,18,Faridabad
+6/7/2026,INV1338,JSW Steel 68,Web Sling,Rigging,20,1849,36980,18,Noida
+6/8/2026,INV1339,Jindal Steel 68,Shackle,Lifting,4,3139,12556,18,Noida
+6/9/2026,INV1340,BHEL 68,Eye Bolt,Rigging,9,2090,18810,18,Delhi
+6/10/2026,INV1341,Tata Steel 69,Wire Rope,Rigging,9,3768,33912,18,Faridabad
+6/11/2026,INV1342,Larsen & Toubro 69,Shackle,Rigging,3,4187,12561,18,Gurugram
+6/12/2026,INV1343,JSW Steel 69,Wire Rope,Rigging,10,5024,50240,18,Delhi
+6/13/2026,INV1344,Jindal Steel 69,Chain Pulley Block,Lifting,13,622,8086,18,Faridabad
+6/14/2026,INV1345,BHEL 69,Web Sling,Lifting,16,3072,49152,18,Jaipur
+6/15/2026,INV1346,Tata Steel 70,Hook,Safety,17,2827,48059,18,Gurugram
+6/16/2026,INV1347,Larsen & Toubro 70,Shackle,Safety,4,5390,21560,18,Gurugram
+6/17/2026,INV1348,JSW Steel 70,Chain Pulley Block,Safety,9,869,7821,18,Faridabad
+6/18/2026,INV1349,Jindal Steel 70,Web Sling,Rigging,17,4470,75990,18,Delhi
+6/19/2026,INV1350,BHEL 70,Chain Sling,Rigging,20,6906,138120,18,Faridabad
+6/20/2026,INV1351,Tata Steel 71,Chain Sling,Rigging,17,2864,48688,18,Gurugram
+6/21/2026,INV1352,Larsen & Toubro 71,Turnbuckle,Rigging,12,3672,44064,18,Faridabad
+6/22/2026,INV1353,JSW Steel 71,Chain Pulley Block,Lifting,9,3354,30186,18,Faridabad
+6/23/2026,INV1354,Jindal Steel 71,Chain Sling,Lifting,16,1007,16112,18,Delhi
+6/24/2026,INV1355,BHEL 71,Chain Sling,Rigging,13,6871,89323,18,Delhi
+6/25/2026,INV1356,Tata Steel 72,Wire Rope,Lifting,15,3576,53640,18,Jaipur
+6/26/2026,INV1357,Larsen & Toubro 72,Chain Pulley Block,Lifting,19,862,16378,18,Noida
+6/27/2026,INV1358,JSW Steel 72,Wire Rope,Lifting,20,1776,35520,18,Gurugram
+6/28/2026,INV1359,Jindal Steel 72,Chain Pulley Block,Lifting,14,4307,60298,18,Delhi
+6/29/2026,INV1360,BHEL 72,Turnbuckle,Safety,3,5490,16470,18,Faridabad
+1/1/2026,INV1361,Tata Steel 73,Eye Bolt,Safety,13,6648,86424,18,Noida
+1/2/2026,INV1362,Larsen & Toubro 73,Turnbuckle,Lifting,8,4619,36952,18,Gurugram
+1/3/2026,INV1363,JSW Steel 73,Hook,Rigging,8,728,5824,18,Jaipur
+1/4/2026,INV1364,Jindal Steel 73,Turnbuckle,Safety,3,3743,11229,18,Gurugram
+1/5/2026,INV1365,BHEL 73,Chain Pulley Block,Safety,14,7014,98196,18,Faridabad
+1/6/2026,INV1366,Tata Steel 74,Turnbuckle,Lifting,4,6293,25172,18,Delhi
+1/7/2026,INV1367,Larsen & Toubro 74,Hook,Safety,19,5419,102961,18,Jaipur
+1/8/2026,INV1368,JSW Steel 74,Chain Pulley Block,Rigging,20,6266,125320,18,Noida
+1/9/2026,INV1369,Jindal Steel 74,Eye Bolt,Lifting,15,3714,55710,18,Gurugram
+1/10/2026,INV1370,BHEL 74,Turnbuckle,Lifting,11,3777,41547,18,Jaipur
+1/11/2026,INV1371,Tata Steel 75,Turnbuckle,Safety,16,1568,25088,18,Jaipur
+1/12/2026,INV1372,Larsen & Toubro 75,Eye Bolt,Safety,9,788,7092,18,Gurugram
+1/13/2026,INV1373,JSW Steel 75,Chain Sling,Rigging,11,6898,75878,18,Faridabad
+1/14/2026,INV1374,Jindal Steel 75,Shackle,Safety,13,4319,56147,18,Delhi
+1/15/2026,INV1375,BHEL 75,Wire Rope,Rigging,1,539,539,18,Noida
+1/16/2026,INV1376,Tata Steel 76,Wire Rope,Rigging,20,6488,129760,18,Faridabad
+1/17/2026,INV1377,Larsen & Toubro 76,Wire Rope,Rigging,6,2113,12678,18,Faridabad
+1/18/2026,INV1378,JSW Steel 76,Web Sling,Rigging,8,5699,45592,18,Delhi
+1/19/2026,INV1379,Jindal Steel 76,Wire Rope,Lifting,20,7724,154480,18,Gurugram
+1/20/2026,INV1380,BHEL 76,Turnbuckle,Rigging,13,3231,42003,18,Jaipur
+1/21/2026,INV1381,Tata Steel 77,Wire Rope,Lifting,5,3283,16415,18,Jaipur
+1/22/2026,INV1382,Larsen & Toubro 77,Eye Bolt,Rigging,19,676,12844,18,Noida
+1/23/2026,INV1383,JSW Steel 77,Web Sling,Safety,4,7706,30824,18,Faridabad
+1/24/2026,INV1384,Jindal Steel 77,Turnbuckle,Lifting,2,5598,11196,18,Gurugram
+1/25/2026,INV1385,BHEL 77,Hook,Safety,7,6454,45178,18,Gurugram
+1/26/2026,INV1386,Tata Steel 78,Web Sling,Rigging,10,3703,37030,18,Gurugram
+1/27/2026,INV1387,Larsen & Toubro 78,Chain Pulley Block,Rigging,13,7199,93587,18,Delhi
+1/28/2026,INV1388,JSW Steel 78,Chain Sling,Safety,10,6066,60660,18,Jaipur
+1/29/2026,INV1389,Jindal Steel 78,Shackle,Safety,4,3992,15968,18,Delhi
+1/30/2026,INV1390,BHEL 78,Wire Rope,Rigging,12,5005,60060,18,Noida
+1/31/2026,INV1391,Tata Steel 79,Shackle,Lifting,19,5742,109098,18,Noida
+2/1/2026,INV1392,Larsen & Toubro 79,Shackle,Lifting,4,1473,5892,18,Jaipur
+2/2/2026,INV1393,JSW Steel 79,Wire Rope,Safety,19,3575,67925,18,Gurugram
+2/3/2026,INV1394,Jindal Steel 79,Eye Bolt,Rigging,9,5439,48951,18,Noida
+2/4/2026,INV1395,BHEL 79,Wire Rope,Safety,18,5364,96552,18,Faridabad
+2/5/2026,INV1396,Tata Steel 80,Shackle,Lifting,5,3020,15100,18,Faridabad
+2/6/2026,INV1397,Larsen & Toubro 80,Web Sling,Lifting,17,4985,84745,18,Jaipur
+2/7/2026,INV1398,JSW Steel 80,Chain Sling,Rigging,19,3831,72789,18,Gurugram
+2/8/2026,INV1399,Jindal Steel 80,Turnbuckle,Lifting,16,7907,126512,18,Jaipur
+2/9/2026,INV1400,BHEL 80,Chain Sling,Safety,4,1636,6544,18,Faridabad
+2/10/2026,INV1401,Tata Steel 81,Chain Pulley Block,Safety,15,2685,40275,18,Noida
+2/11/2026,INV1402,Larsen & Toubro 81,Chain Sling,Safety,13,4245,55185,18,Faridabad
+2/12/2026,INV1403,JSW Steel 81,Hook,Rigging,9,3617,32553,18,Jaipur
+2/13/2026,INV1404,Jindal Steel 81,Hook,Rigging,11,4053,44583,18,Gurugram
+2/14/2026,INV1405,BHEL 81,Shackle,Rigging,14,3848,53872,18,Jaipur
+2/15/2026,INV1406,Tata Steel 82,Web Sling,Rigging,19,6019,114361,18,Noida
+2/16/2026,INV1407,Larsen & Toubro 82,Hook,Safety,5,1397,6985,18,Noida
+2/17/2026,INV1408,JSW Steel 82,Shackle,Lifting,4,4461,17844,18,Gurugram
+2/18/2026,INV1409,Jindal Steel 82,Wire Rope,Rigging,14,2960,41440,18,Noida
+2/19/2026,INV1410,BHEL 82,Chain Pulley Block,Rigging,3,6627,19881,18,Faridabad
+2/20/2026,INV1411,Tata Steel 83,Turnbuckle,Safety,9,2676,24084,18,Faridabad
+2/21/2026,INV1412,Larsen & Toubro 83,Shackle,Safety,14,4131,57834,18,Jaipur
+2/22/2026,INV1413,JSW Steel 83,Turnbuckle,Rigging,11,4048,44528,18,Faridabad
+2/23/2026,INV1414,Jindal Steel 83,Hook,Rigging,11,1484,16324,18,Delhi
+2/24/2026,INV1415,BHEL 83,Web Sling,Safety,20,4517,90340,18,Gurugram
+2/25/2026,INV1416,Tata Steel 84,Hook,Lifting,18,2306,41508,18,Noida
+2/26/2026,INV1417,Larsen & Toubro 84,Turnbuckle,Rigging,8,1577,12616,18,Noida
+2/27/2026,INV1418,JSW Steel 84,Chain Pulley Block,Safety,19,3805,72295,18,Gurugram
+2/28/2026,INV1419,Jindal Steel 84,Hook,Safety,11,1125,12375,18,Gurugram
+3/1/2026,INV1420,BHEL 84,Eye Bolt,Rigging,19,2488,47272,18,Noida
+3/2/2026,INV1421,Tata Steel 85,Eye Bolt,Lifting,10,5921,59210,18,Gurugram
+3/3/2026,INV1422,Larsen & Toubro 85,Web Sling,Lifting,2,4388,8776,18,Gurugram
+3/4/2026,INV1423,JSW Steel 85,Wire Rope,Rigging,11,2704,29744,18,Faridabad
+3/5/2026,INV1424,Jindal Steel 85,Hook,Safety,17,6234,105978,18,Gurugram
+3/6/2026,INV1425,BHEL 85,Hook,Rigging,1,7969,7969,18,Jaipur
+3/7/2026,INV1426,Tata Steel 86,Turnbuckle,Safety,14,7576,106064,18,Gurugram
+3/8/2026,INV1427,Larsen & Toubro 86,Web Sling,Lifting,17,6371,108307,18,Delhi
+3/9/2026,INV1428,JSW Steel 86,Hook,Lifting,18,831,14958,18,Gurugram
+3/10/2026,INV1429,Jindal Steel 86,Chain Pulley Block,Safety,8,3939,31512,18,Faridabad
+3/11/2026,INV1430,BHEL 86,Web Sling,Safety,18,7553,135954,18,Jaipur
+3/12/2026,INV1431,Tata Steel 87,Eye Bolt,Lifting,16,1112,17792,18,Gurugram
+3/13/2026,INV1432,Larsen & Toubro 87,Web Sling,Lifting,10,7222,72220,18,Gurugram
+3/14/2026,INV1433,JSW Steel 87,Eye Bolt,Lifting,15,4853,72795,18,Noida
+3/15/2026,INV1434,Jindal Steel 87,Chain Pulley Block,Lifting,13,5349,69537,18,Faridabad
+3/16/2026,INV1435,BHEL 87,Hook,Safety,6,2968,17808,18,Delhi
+3/17/2026,INV1436,Tata Steel 88,Shackle,Safety,3,6647,19941,18,Delhi
+3/18/2026,INV1437,Larsen & Toubro 88,Shackle,Safety,19,1590,30210,18,Faridabad
+3/19/2026,INV1438,JSW Steel 88,Chain Pulley Block,Lifting,13,4490,58370,18,Delhi
+3/20/2026,INV1439,Jindal Steel 88,Turnbuckle,Lifting,20,6192,123840,18,Jaipur
+3/21/2026,INV1440,BHEL 88,Web Sling,Rigging,1,6782,6782,18,Faridabad
+3/22/2026,INV1441,Tata Steel 89,Hook,Lifting,17,895,15215,18,Noida
+3/23/2026,INV1442,Larsen & Toubro 89,Hook,Safety,19,2422,46018,18,Faridabad
+3/24/2026,INV1443,JSW Steel 89,Hook,Lifting,9,2936,26424,18,Noida
+3/25/2026,INV1444,Jindal Steel 89,Shackle,Rigging,17,6300,107100,18,Faridabad
+3/26/2026,INV1445,BHEL 89,Wire Rope,Lifting,7,7684,53788,18,Delhi
+3/27/2026,INV1446,Tata Steel 90,Chain Pulley Block,Safety,7,4706,32942,18,Faridabad
+3/28/2026,INV1447,Larsen & Toubro 90,Chain Sling,Rigging,13,7157,93041,18,Delhi
+3/29/2026,INV1448,JSW Steel 90,Wire Rope,Rigging,3,7451,22353,18,Delhi
+3/30/2026,INV1449,Jindal Steel 90,Wire Rope,Lifting,11,1404,15444,18,Faridabad
+3/31/2026,INV1450,BHEL 90,Shackle,Safety,3,1121,3363,18,Jaipur
+4/1/2026,INV1451,Tata Steel 91,Turnbuckle,Lifting,5,1556,7780,18,Delhi
+4/2/2026,INV1452,Larsen & Toubro 91,Wire Rope,Lifting,12,1766,21192,18,Gurugram
+4/3/2026,INV1453,JSW Steel 91,Wire Rope,Rigging,1,7249,7249,18,Delhi
+4/4/2026,INV1454,Jindal Steel 91,Chain Sling,Rigging,18,2695,48510,18,Noida
+4/5/2026,INV1455,BHEL 91,Chain Sling,Lifting,7,1732,12124,18,Delhi
+4/6/2026,INV1456,Tata Steel 92,Turnbuckle,Safety,17,7368,125256,18,Noida
+4/7/2026,INV1457,Larsen & Toubro 92,Shackle,Lifting,11,4621,50831,18,Delhi
+4/8/2026,INV1458,JSW Steel 92,Wire Rope,Lifting,15,4716,70740,18,Jaipur
+4/9/2026,INV1459,Jindal Steel 92,Shackle,Lifting,12,4152,49824,18,Delhi
+4/10/2026,INV1460,BHEL 92,Turnbuckle,Rigging,8,3410,27280,18,Delhi
+4/11/2026,INV1461,Tata Steel 93,Chain Pulley Block,Lifting,9,3980,35820,18,Gurugram
+4/12/2026,INV1462,Larsen & Toubro 93,Wire Rope,Lifting,8,6308,50464,18,Faridabad
+4/13/2026,INV1463,JSW Steel 93,Wire Rope,Rigging,14,1629,22806,18,Jaipur
+4/14/2026,INV1464,Jindal Steel 93,Chain Pulley Block,Safety,5,3821,19105,18,Gurugram
+4/15/2026,INV1465,BHEL 93,Shackle,Safety,1,5149,5149,18,Jaipur
+4/16/2026,INV1466,Tata Steel 94,Wire Rope,Safety,18,2646,47628,18,Faridabad
+4/17/2026,INV1467,Larsen & Toubro 94,Wire Rope,Lifting,14,3019,42266,18,Noida
+4/18/2026,INV1468,JSW Steel 94,Shackle,Safety,9,2081,18729,18,Noida
+4/19/2026,INV1469,Jindal Steel 94,Chain Sling,Safety,3,7155,21465,18,Faridabad
+4/20/2026,INV1470,BHEL 94,Hook,Lifting,7,6191,43337,18,Delhi
+4/21/2026,INV1471,Tata Steel 95,Chain Sling,Lifting,1,3645,3645,18,Faridabad
+4/22/2026,INV1472,Larsen & Toubro 95,Chain Sling,Lifting,18,972,17496,18,Faridabad
+4/23/2026,INV1473,JSW Steel 95,Eye Bolt,Rigging,12,4003,48036,18,Jaipur
+4/24/2026,INV1474,Jindal Steel 95,Web Sling,Safety,4,6794,27176,18,Delhi
+4/25/2026,INV1475,BHEL 95,Hook,Rigging,19,928,17632,18,Faridabad
+4/26/2026,INV1476,Tata Steel 96,Shackle,Rigging,19,5276,100244,18,Delhi
+4/27/2026,INV1477,Larsen & Toubro 96,Wire Rope,Rigging,7,6253,43771,18,Noida
+4/28/2026,INV1478,JSW Steel 96,Turnbuckle,Safety,3,4653,13959,18,Delhi
+4/29/2026,INV1479,Jindal Steel 96,Wire Rope,Safety,15,4765,71475,18,Noida
+4/30/2026,INV1480,BHEL 96,Turnbuckle,Lifting,4,7605,30420,18,Jaipur
+5/1/2026,INV1481,Tata Steel 97,Eye Bolt,Safety,7,4648,32536,18,Faridabad
+5/2/2026,INV1482,Larsen & Toubro 97,Hook,Safety,16,5596,89536,18,Noida
+5/3/2026,INV1483,JSW Steel 97,Web Sling,Lifting,9,5100,45900,18,Noida
+5/4/2026,INV1484,Jindal Steel 97,Hook,Lifting,16,6772,108352,18,Delhi
+5/5/2026,INV1485,BHEL 97,Chain Pulley Block,Safety,18,2424,43632,18,Noida
+5/6/2026,INV1486,Tata Steel 98,Shackle,Safety,19,4012,76228,18,Jaipur
+5/7/2026,INV1487,Larsen & Toubro 98,Hook,Lifting,1,7568,7568,18,Gurugram
+5/8/2026,INV1488,JSW Steel 98,Chain Pulley Block,Lifting,7,1374,9618,18,Noida
+5/9/2026,INV1489,Jindal Steel 98,Eye Bolt,Lifting,12,4168,50016,18,Faridabad
+5/10/2026,INV1490,BHEL 98,Wire Rope,Rigging,20,4699,93980,18,Noida
+5/11/2026,INV1491,Tata Steel 99,Eye Bolt,Safety,16,2880,46080,18,Noida
+5/12/2026,INV1492,Larsen & Toubro 99,Eye Bolt,Lifting,1,4096,4096,18,Delhi
+5/13/2026,INV1493,JSW Steel 99,Chain Sling,Lifting,15,3140,47100,18,Noida
+5/14/2026,INV1494,Jindal Steel 99,Chain Pulley Block,Rigging,6,560,3360,18,Jaipur
+5/15/2026,INV1495,BHEL 99,Shackle,Rigging,13,4697,61061,18,Jaipur
+5/16/2026,INV1496,Tata Steel 100,Turnbuckle,Lifting,3,6948,20844,18,Jaipur
+5/17/2026,INV1497,Larsen & Toubro 100,Eye Bolt,Rigging,9,7277,65493,18,Gurugram
+5/18/2026,INV1498,JSW Steel 100,Eye Bolt,Safety,19,6584,125096,18,Jaipur
+5/19/2026,INV1499,Jindal Steel 100,Wire Rope,Safety,17,6520,110840,18,Faridabad
+5/20/2026,INV1500,BHEL 100,Hook,Rigging,9,7357,66213,18,Delhi
+5/21/2026,INV1501,Tata Steel 101,Shackle,Safety,2,3898,7796,18,Noida
+5/22/2026,INV1502,Larsen & Toubro 101,Web Sling,Safety,8,6042,48336,18,Delhi
+5/23/2026,INV1503,JSW Steel 101,Eye Bolt,Safety,4,6830,27320,18,Noida
+5/24/2026,INV1504,Jindal Steel 101,Hook,Lifting,3,3216,9648,18,Faridabad
+5/25/2026,INV1505,BHEL 101,Wire Rope,Lifting,6,4506,27036,18,Jaipur
+5/26/2026,INV1506,Tata Steel 102,Chain Pulley Block,Safety,8,5690,45520,18,Jaipur
+5/27/2026,INV1507,Larsen & Toubro 102,Shackle,Lifting,2,6818,13636,18,Gurugram
+5/28/2026,INV1508,JSW Steel 102,Chain Pulley Block,Rigging,10,7459,74590,18,Faridabad
+5/29/2026,INV1509,Jindal Steel 102,Chain Sling,Rigging,13,3144,40872,18,Gurugram
+5/30/2026,INV1510,BHEL 102,Turnbuckle,Safety,13,873,11349,18,Gurugram
+5/31/2026,INV1511,Tata Steel 103,Wire Rope,Lifting,14,918,12852,18,Jaipur
+6/1/2026,INV1512,Larsen & Toubro 103,Web Sling,Rigging,16,2254,36064,18,Noida
+6/2/2026,INV1513,JSW Steel 103,Chain Pulley Block,Safety,14,2853,39942,18,Faridabad
+6/3/2026,INV1514,Jindal Steel 103,Wire Rope,Rigging,2,1286,2572,18,Noida
+6/4/2026,INV1515,BHEL 103,Turnbuckle,Safety,6,3568,21408,18,Noida
+6/5/2026,INV1516,Tata Steel 104,Turnbuckle,Rigging,10,3347,33470,18,Gurugram
+6/6/2026,INV1517,Larsen & Toubro 104,Chain Pulley Block,Lifting,13,5792,75296,18,Jaipur
+6/7/2026,INV1518,JSW Steel 104,Wire Rope,Lifting,4,1590,6360,18,Jaipur
+6/8/2026,INV1519,Jindal Steel 104,Wire Rope,Rigging,20,5318,106360,18,Jaipur
+6/9/2026,INV1520,BHEL 104,Shackle,Safety,9,2806,25254,18,Faridabad
+6/10/2026,INV1521,Tata Steel 105,Shackle,Safety,17,2870,48790,18,Jaipur
+6/11/2026,INV1522,Larsen & Toubro 105,Web Sling,Safety,9,6255,56295,18,Gurugram
+6/12/2026,INV1523,JSW Steel 105,Chain Pulley Block,Rigging,19,5918,112442,18,Gurugram
+6/13/2026,INV1524,Jindal Steel 105,Chain Pulley Block,Safety,4,5452,21808,18,Gurugram
+6/14/2026,INV1525,BHEL 105,Wire Rope,Safety,20,5360,107200,18,Faridabad
+6/15/2026,INV1526,Tata Steel 106,Shackle,Rigging,18,5060,91080,18,Jaipur
+6/16/2026,INV1527,Larsen & Toubro 106,Shackle,Rigging,6,7171,43026,18,Delhi
+6/17/2026,INV1528,JSW Steel 106,Chain Pulley Block,Rigging,18,3521,63378,18,Faridabad
+6/18/2026,INV1529,Jindal Steel 106,Chain Pulley Block,Lifting,17,4883,83011,18,Delhi
+6/19/2026,INV1530,BHEL 106,Turnbuckle,Rigging,5,3317,16585,18,Faridabad
+6/20/2026,INV1531,Tata Steel 107,Wire Rope,Safety,4,601,2404,18,Noida
+6/21/2026,INV1532,Larsen & Toubro 107,Chain Sling,Lifting,2,950,1900,18,Noida
+6/22/2026,INV1533,JSW Steel 107,Shackle,Safety,9,2133,19197,18,Gurugram
+6/23/2026,INV1534,Jindal Steel 107,Shackle,Safety,5,1562,7810,18,Faridabad
+6/24/2026,INV1535,BHEL 107,Chain Sling,Lifting,6,4731,28386,18,Noida
+6/25/2026,INV1536,Tata Steel 108,Web Sling,Safety,20,7667,153340,18,Delhi
+6/26/2026,INV1537,Larsen & Toubro 108,Chain Pulley Block,Lifting,11,1336,14696,18,Jaipur
+6/27/2026,INV1538,JSW Steel 108,Hook,Safety,2,4575,9150,18,Faridabad
+6/28/2026,INV1539,Jindal Steel 108,Web Sling,Lifting,5,806,4030,18,Jaipur
+6/29/2026,INV1540,BHEL 108,Eye Bolt,Lifting,17,7239,123063,18,Delhi
+1/1/2026,INV1541,Tata Steel 109,Shackle,Rigging,6,6756,40536,18,Faridabad
+1/2/2026,INV1542,Larsen & Toubro 109,Chain Sling,Rigging,16,7936,126976,18,Gurugram
+1/3/2026,INV1543,JSW Steel 109,Shackle,Lifting,17,5040,85680,18,Jaipur
+1/4/2026,INV1544,Jindal Steel 109,Chain Pulley Block,Safety,5,5963,29815,18,Faridabad
+1/5/2026,INV1545,BHEL 109,Turnbuckle,Safety,12,1157,13884,18,Noida
+1/6/2026,INV1546,Tata Steel 110,Chain Pulley Block,Lifting,17,7165,121805,18,Jaipur
+1/7/2026,INV1547,Larsen & Toubro 110,Eye Bolt,Rigging,19,2330,44270,18,Faridabad
+1/8/2026,INV1548,JSW Steel 110,Turnbuckle,Safety,8,2483,19864,18,Delhi
+1/9/2026,INV1549,Jindal Steel 110,Chain Pulley Block,Rigging,15,6023,90345,18,Jaipur
+1/10/2026,INV1550,BHEL 110,Hook,Safety,11,4990,54890,18,Jaipur
+1/11/2026,INV1551,Tata Steel 111,Chain Pulley Block,Rigging,12,7041,84492,18,Gurugram
+1/12/2026,INV1552,Larsen & Toubro 111,Turnbuckle,Lifting,18,1427,25686,18,Noida
+1/13/2026,INV1553,JSW Steel 111,Chain Sling,Lifting,9,4725,42525,18,Faridabad
+1/14/2026,INV1554,Jindal Steel 111,Wire Rope,Lifting,8,983,7864,18,Jaipur
+1/15/2026,INV1555,BHEL 111,Hook,Safety,17,958,16286,18,Jaipur
+1/16/2026,INV1556,Tata Steel 112,Wire Rope,Safety,10,6994,69940,18,Faridabad
+1/17/2026,INV1557,Larsen & Toubro 112,Wire Rope,Lifting,1,1643,1643,18,Jaipur
+1/18/2026,INV1558,JSW Steel 112,Shackle,Rigging,4,7465,29860,18,Jaipur
+1/19/2026,INV1559,Jindal Steel 112,Wire Rope,Lifting,11,3227,35497,18,Jaipur
+1/20/2026,INV1560,BHEL 112,Turnbuckle,Rigging,12,3640,43680,18,Noida
+1/21/2026,INV1561,Tata Steel 113,Shackle,Lifting,10,6229,62290,18,Delhi
+1/22/2026,INV1562,Larsen & Toubro 113,Web Sling,Lifting,1,533,533,18,Delhi
+1/23/2026,INV1563,JSW Steel 113,Chain Sling,Lifting,12,7821,93852,18,Faridabad
+1/24/2026,INV1564,Jindal Steel 113,Shackle,Lifting,2,3536,7072,18,Faridabad
+1/25/2026,INV1565,BHEL 113,Chain Pulley Block,Safety,2,4820,9640,18,Delhi
+1/26/2026,INV1566,Tata Steel 114,Turnbuckle,Safety,20,7692,153840,18,Faridabad
+1/27/2026,INV1567,Larsen & Toubro 114,Web Sling,Rigging,5,5108,25540,18,Jaipur
+1/28/2026,INV1568,JSW Steel 114,Shackle,Rigging,3,610,1830,18,Jaipur
+1/29/2026,INV1569,Jindal Steel 114,Chain Sling,Rigging,19,4529,86051,18,Gurugram
+1/30/2026,INV1570,BHEL 114,Eye Bolt,Lifting,15,4150,62250,18,Noida
+1/31/2026,INV1571,Tata Steel 115,Shackle,Lifting,7,1407,9849,18,Faridabad
+2/1/2026,INV1572,Larsen & Toubro 115,Chain Sling,Lifting,16,1328,21248,18,Jaipur
+2/2/2026,INV1573,JSW Steel 115,Chain Sling,Rigging,13,4705,61165,18,Noida
+2/3/2026,INV1574,Jindal Steel 115,Hook,Safety,16,7590,121440,18,Faridabad
+2/4/2026,INV1575,BHEL 115,Eye Bolt,Lifting,2,2970,5940,18,Jaipur
+2/5/2026,INV1576,Tata Steel 116,Hook,Lifting,1,1694,1694,18,Delhi
+2/6/2026,INV1577,Larsen & Toubro 116,Wire Rope,Lifting,8,3426,27408,18,Faridabad
+2/7/2026,INV1578,JSW Steel 116,Hook,Rigging,18,1558,28044,18,Noida
+2/8/2026,INV1579,Jindal Steel 116,Chain Pulley Block,Lifting,1,7986,7986,18,Gurugram
+2/9/2026,INV1580,BHEL 116,Hook,Rigging,5,3180,15900,18,Gurugram
+2/10/2026,INV1581,Tata Steel 117,Shackle,Rigging,19,2294,43586,18,Gurugram
+2/11/2026,INV1582,Larsen & Toubro 117,Web Sling,Lifting,9,3708,33372,18,Delhi
+2/12/2026,INV1583,JSW Steel 117,Chain Pulley Block,Rigging,9,1598,14382,18,Delhi
+2/13/2026,INV1584,Jindal Steel 117,Web Sling,Lifting,9,1580,14220,18,Gurugram
+2/14/2026,INV1585,BHEL 117,Eye Bolt,Lifting,16,3048,48768,18,Gurugram
+2/15/2026,INV1586,Tata Steel 118,Turnbuckle,Lifting,10,1057,10570,18,Delhi
+2/16/2026,INV1587,Larsen & Toubro 118,Turnbuckle,Safety,3,7985,23955,18,Noida
+2/17/2026,INV1588,JSW Steel 118,Turnbuckle,Rigging,14,7802,109228,18,Delhi
+2/18/2026,INV1589,Jindal Steel 118,Turnbuckle,Rigging,7,2712,18984,18,Faridabad
+2/19/2026,INV1590,BHEL 118,Chain Pulley Block,Safety,13,720,9360,18,Faridabad
+2/20/2026,INV1591,Tata Steel 119,Shackle,Lifting,10,4253,42530,18,Gurugram
+2/21/2026,INV1592,Larsen & Toubro 119,Wire Rope,Rigging,12,1658,19896,18,Delhi
+2/22/2026,INV1593,JSW Steel 119,Eye Bolt,Rigging,20,2654,53080,18,Jaipur
+2/23/2026,INV1594,Jindal Steel 119,Chain Sling,Lifting,12,7074,84888,18,Delhi
+2/24/2026,INV1595,BHEL 119,Turnbuckle,Rigging,11,1491,16401,18,Faridabad
+2/25/2026,INV1596,Tata Steel 120,Web Sling,Safety,15,2188,32820,18,Delhi
+2/26/2026,INV1597,Larsen & Toubro 120,Wire Rope,Safety,14,2711,37954,18,Gurugram
+2/27/2026,INV1598,JSW Steel 120,Hook,Safety,11,6989,76879,18,Gurugram
+2/28/2026,INV1599,Jindal Steel 120,Eye Bolt,Lifting,19,7105,134995,18,Delhi
+3/1/2026,INV1600,BHEL 120,Wire Rope,Lifting,8,5932,47456,18,Noida
+3/2/2026,INV1601,Tata Steel 121,Shackle,Lifting,3,7958,23874,18,Gurugram
+3/3/2026,INV1602,Larsen & Toubro 121,Shackle,Lifting,18,4352,78336,18,Gurugram
+3/4/2026,INV1603,JSW Steel 121,Chain Sling,Safety,7,6061,42427,18,Delhi
+3/5/2026,INV1604,Jindal Steel 121,Web Sling,Lifting,14,510,7140,18,Jaipur
+3/6/2026,INV1605,BHEL 121,Shackle,Lifting,15,1430,21450,18,Jaipur
+3/7/2026,INV1606,Tata Steel 122,Shackle,Safety,9,1739,15651,18,Noida
+3/8/2026,INV1607,Larsen & Toubro 122,Eye Bolt,Rigging,17,3470,58990,18,Jaipur
+3/9/2026,INV1608,JSW Steel 122,Chain Pulley Block,Safety,13,2622,34086,18,Delhi
+3/10/2026,INV1609,Jindal Steel 122,Shackle,Safety,11,7038,77418,18,Jaipur
+3/11/2026,INV1610,BHEL 122,Hook,Safety,1,3465,3465,18,Gurugram
+3/12/2026,INV1611,Tata Steel 123,Chain Sling,Lifting,5,6710,33550,18,Noida
+3/13/2026,INV1612,Larsen & Toubro 123,Wire Rope,Safety,1,3664,3664,18,Gurugram
+3/14/2026,INV1613,JSW Steel 123,Chain Pulley Block,Rigging,6,755,4530,18,Jaipur
+3/15/2026,INV1614,Jindal Steel 123,Web Sling,Rigging,19,5198,98762,18,Noida
+3/16/2026,INV1615,BHEL 123,Wire Rope,Safety,5,4045,20225,18,Gurugram
+3/17/2026,INV1616,Tata Steel 124,Chain Pulley Block,Lifting,20,4257,85140,18,Faridabad
+3/18/2026,INV1617,Larsen & Toubro 124,Chain Pulley Block,Lifting,2,7661,15322,18,Delhi
+3/19/2026,INV1618,JSW Steel 124,Chain Sling,Lifting,8,4439,35512,18,Delhi
+3/20/2026,INV1619,Jindal Steel 124,Hook,Safety,17,1583,26911,18,Noida
+3/21/2026,INV1620,BHEL 124,Chain Pulley Block,Lifting,17,4341,73797,18,Noida
+3/22/2026,INV1621,Tata Steel 125,Web Sling,Rigging,19,806,15314,18,Noida
+3/23/2026,INV1622,Larsen & Toubro 125,Web Sling,Safety,18,2570,46260,18,Delhi
+3/24/2026,INV1623,JSW Steel 125,Wire Rope,Rigging,5,2832,14160,18,Jaipur
+3/25/2026,INV1624,Jindal Steel 125,Eye Bolt,Lifting,11,1559,17149,18,Faridabad
+3/26/2026,INV1625,BHEL 125,Hook,Lifting,16,3984,63744,18,Faridabad
+3/27/2026,INV1626,Tata Steel 126,Wire Rope,Lifting,10,6517,65170,18,Faridabad
+3/28/2026,INV1627,Larsen & Toubro 126,Chain Pulley Block,Lifting,9,4201,37809,18,Noida
+3/29/2026,INV1628,JSW Steel 126,Eye Bolt,Lifting,17,5673,96441,18,Gurugram
+3/30/2026,INV1629,Jindal Steel 126,Turnbuckle,Rigging,16,5230,83680,18,Faridabad
+3/31/2026,INV1630,BHEL 126,Turnbuckle,Safety,9,973,8757,18,Gurugram
+4/1/2026,INV1631,Tata Steel 127,Wire Rope,Safety,11,6913,76043,18,Jaipur
+4/2/2026,INV1632,Larsen & Toubro 127,Hook,Rigging,6,7384,44304,18,Delhi
+4/3/2026,INV1633,JSW Steel 127,Chain Pulley Block,Rigging,14,1002,14028,18,Delhi
+4/4/2026,INV1634,Jindal Steel 127,Eye Bolt,Lifting,3,6137,18411,18,Faridabad
+4/5/2026,INV1635,BHEL 127,Chain Pulley Block,Safety,4,6600,26400,18,Faridabad
+4/6/2026,INV1636,Tata Steel 128,Chain Sling,Lifting,3,7597,22791,18,Delhi
+4/7/2026,INV1637,Larsen & Toubro 128,Hook,Safety,18,2696,48528,18,Noida
+4/8/2026,INV1638,JSW Steel 128,Chain Sling,Lifting,19,3123,59337,18,Noida
+4/9/2026,INV1639,Jindal Steel 128,Turnbuckle,Safety,9,7641,68769,18,Noida
+4/10/2026,INV1640,BHEL 128,Web Sling,Safety,12,1472,17664,18,Gurugram
+4/11/2026,INV1641,Tata Steel 129,Chain Pulley Block,Rigging,6,7786,46716,18,Noida
+4/12/2026,INV1642,Larsen & Toubro 129,Turnbuckle,Safety,13,1584,20592,18,Gurugram
+4/13/2026,INV1643,JSW Steel 129,Shackle,Lifting,1,6113,6113,18,Jaipur
+4/14/2026,INV1644,Jindal Steel 129,Chain Sling,Rigging,4,3898,15592,18,Delhi
+4/15/2026,INV1645,BHEL 129,Shackle,Lifting,2,3641,7282,18,Faridabad
+4/16/2026,INV1646,Tata Steel 130,Chain Pulley Block,Safety,14,1457,20398,18,Jaipur
+4/17/2026,INV1647,Larsen & Toubro 130,Hook,Lifting,19,4572,86868,18,Delhi
+4/18/2026,INV1648,JSW Steel 130,Web Sling,Rigging,3,2004,6012,18,Gurugram
+4/19/2026,INV1649,Jindal Steel 130,Hook,Lifting,16,5800,92800,18,Noida
+4/20/2026,INV1650,BHEL 130,Chain Sling,Lifting,18,3450,62100,18,Gurugram
+4/21/2026,INV1651,Tata Steel 131,Chain Pulley Block,Lifting,5,5054,25270,18,Faridabad
+4/22/2026,INV1652,Larsen & Toubro 131,Turnbuckle,Lifting,2,870,1740,18,Delhi
+4/23/2026,INV1653,JSW Steel 131,Hook,Safety,1,1157,1157,18,Faridabad
+4/24/2026,INV1654,Jindal Steel 131,Chain Pulley Block,Safety,12,2514,30168,18,Jaipur
+4/25/2026,INV1655,BHEL 131,Hook,Rigging,2,5361,10722,18,Noida
+4/26/2026,INV1656,Tata Steel 132,Hook,Lifting,2,6864,13728,18,Noida
+4/27/2026,INV1657,Larsen & Toubro 132,Chain Sling,Rigging,16,5542,88672,18,Jaipur
+4/28/2026,INV1658,JSW Steel 132,Eye Bolt,Rigging,2,5114,10228,18,Gurugram
+4/29/2026,INV1659,Jindal Steel 132,Wire Rope,Lifting,18,6678,120204,18,Jaipur
+4/30/2026,INV1660,BHEL 132,Eye Bolt,Safety,6,6422,38532,18,Noida
+5/1/2026,INV1661,Tata Steel 133,Web Sling,Lifting,14,1616,22624,18,Faridabad
+5/2/2026,INV1662,Larsen & Toubro 133,Wire Rope,Lifting,13,2281,29653,18,Noida
+5/3/2026,INV1663,JSW Steel 133,Web Sling,Rigging,11,3957,43527,18,Gurugram
+5/4/2026,INV1664,Jindal Steel 133,Hook,Lifting,13,6955,90415,18,Gurugram
+5/5/2026,INV1665,BHEL 133,Eye Bolt,Safety,17,7610,129370,18,Delhi
+5/6/2026,INV1666,Tata Steel 134,Hook,Lifting,1,3213,3213,18,Faridabad
+5/7/2026,INV1667,Larsen & Toubro 134,Hook,Rigging,13,2429,31577,18,Delhi
+5/8/2026,INV1668,JSW Steel 134,Chain Sling,Rigging,12,828,9936,18,Noida
+5/9/2026,INV1669,Jindal Steel 134,Shackle,Rigging,11,4323,47553,18,Delhi
+5/10/2026,INV1670,BHEL 134,Chain Pulley Block,Safety,6,4252,25512,18,Jaipur
+5/11/2026,INV1671,Tata Steel 135,Shackle,Lifting,3,7281,21843,18,Faridabad
+5/12/2026,INV1672,Larsen & Toubro 135,Wire Rope,Safety,14,5512,77168,18,Gurugram
+5/13/2026,INV1673,JSW Steel 135,Hook,Lifting,5,4458,22290,18,Faridabad
+5/14/2026,INV1674,Jindal Steel 135,Chain Pulley Block,Safety,17,3807,64719,18,Faridabad
+5/15/2026,INV1675,BHEL 135,Chain Sling,Safety,16,5998,95968,18,Faridabad
+5/16/2026,INV1676,Tata Steel 136,Eye Bolt,Safety,16,3501,56016,18,Jaipur
+5/17/2026,INV1677,Larsen & Toubro 136,Hook,Lifting,5,5079,25395,18,Noida
+5/18/2026,INV1678,JSW Steel 136,Shackle,Safety,20,4768,95360,18,Gurugram
+5/19/2026,INV1679,Jindal Steel 136,Eye Bolt,Lifting,15,5305,79575,18,Gurugram
+5/20/2026,INV1680,BHEL 136,Turnbuckle,Rigging,7,6925,48475,18,Noida
+5/21/2026,INV1681,Tata Steel 137,Eye Bolt,Lifting,4,6178,24712,18,Faridabad
+5/22/2026,INV1682,Larsen & Toubro 137,Turnbuckle,Rigging,7,3951,27657,18,Noida
+5/23/2026,INV1683,JSW Steel 137,Turnbuckle,Lifting,17,5622,95574,18,Noida
+5/24/2026,INV1684,Jindal Steel 137,Shackle,Rigging,19,1307,24833,18,Jaipur
+5/25/2026,INV1685,BHEL 137,Hook,Rigging,6,6152,36912,18,Jaipur
+5/26/2026,INV1686,Tata Steel 138,Shackle,Safety,20,2740,54800,18,Jaipur
+5/27/2026,INV1687,Larsen & Toubro 138,Turnbuckle,Rigging,3,2571,7713,18,Noida
+5/28/2026,INV1688,JSW Steel 138,Web Sling,Lifting,9,7733,69597,18,Delhi
+5/29/2026,INV1689,Jindal Steel 138,Chain Sling,Safety,20,3128,62560,18,Delhi
+5/30/2026,INV1690,BHEL 138,Web Sling,Safety,2,4708,9416,18,Delhi
+5/31/2026,INV1691,Tata Steel 139,Hook,Safety,20,6432,128640,18,Delhi
+6/1/2026,INV1692,Larsen & Toubro 139,Turnbuckle,Lifting,20,2153,43060,18,Noida
+6/2/2026,INV1693,JSW Steel 139,Shackle,Rigging,16,6129,98064,18,Faridabad
+6/3/2026,INV1694,Jindal Steel 139,Shackle,Lifting,18,7655,137790,18,Delhi
+6/4/2026,INV1695,BHEL 139,Web Sling,Lifting,4,3562,14248,18,Faridabad
+6/5/2026,INV1696,Tata Steel 140,Hook,Safety,4,2889,11556,18,Noida
+6/6/2026,INV1697,Larsen & Toubro 140,Hook,Rigging,14,6259,87626,18,Gurugram
+6/7/2026,INV1698,JSW Steel 140,Shackle,Safety,15,1010,15150,18,Noida
+6/8/2026,INV1699,Jindal Steel 140,Hook,Rigging,13,2127,27651,18,Delhi
+6/9/2026,INV1700,BHEL 140,Chain Sling,Safety,9,7832,70488,18,Gurugram
+6/10/2026,INV1701,Tata Steel 141,Hook,Safety,6,2584,15504,18,Gurugram
+6/11/2026,INV1702,Larsen & Toubro 141,Chain Pulley Block,Lifting,19,5182,98458,18,Noida
+6/12/2026,INV1703,JSW Steel 141,Hook,Rigging,20,3352,67040,18,Noida
+6/13/2026,INV1704,Jindal Steel 141,Chain Sling,Safety,18,2685,48330,18,Gurugram
+6/14/2026,INV1705,BHEL 141,Web Sling,Safety,14,5899,82586,18,Jaipur
+6/15/2026,INV1706,Tata Steel 142,Chain Sling,Safety,19,7551,143469,18,Gurugram
+6/16/2026,INV1707,Larsen & Toubro 142,Shackle,Safety,19,6498,123462,18,Faridabad
+6/17/2026,INV1708,JSW Steel 142,Turnbuckle,Safety,20,7417,148340,18,Delhi
+6/18/2026,INV1709,Jindal Steel 142,Chain Sling,Safety,5,3574,17870,18,Faridabad
+6/19/2026,INV1710,BHEL 142,Turnbuckle,Safety,17,2103,35751,18,Delhi
+6/20/2026,INV1711,Tata Steel 143,Wire Rope,Safety,4,1574,6296,18,Delhi
+6/21/2026,INV1712,Larsen & Toubro 143,Shackle,Safety,19,7592,144248,18,Delhi
+6/22/2026,INV1713,JSW Steel 143,Chain Sling,Rigging,8,4246,33968,18,Faridabad
+6/23/2026,INV1714,Jindal Steel 143,Turnbuckle,Safety,1,3896,3896,18,Delhi
+6/24/2026,INV1715,BHEL 143,Chain Pulley Block,Lifting,13,1397,18161,18,Noida
+6/25/2026,INV1716,Tata Steel 144,Chain Pulley Block,Safety,11,759,8349,18,Noida
+6/26/2026,INV1717,Larsen & Toubro 144,Shackle,Lifting,8,3368,26944,18,Delhi
+6/27/2026,INV1718,JSW Steel 144,Web Sling,Safety,18,2297,41346,18,Jaipur
+6/28/2026,INV1719,Jindal Steel 144,Turnbuckle,Safety,14,3328,46592,18,Noida
+6/29/2026,INV1720,BHEL 144,Turnbuckle,Rigging,11,6371,70081,18,Noida
+1/1/2026,INV1721,Tata Steel 145,Shackle,Safety,11,1091,12001,18,Jaipur
+1/2/2026,INV1722,Larsen & Toubro 145,Eye Bolt,Rigging,20,2946,58920,18,Jaipur
+1/3/2026,INV1723,JSW Steel 145,Chain Pulley Block,Rigging,12,6647,79764,18,Gurugram
+1/4/2026,INV1724,Jindal Steel 145,Turnbuckle,Safety,18,5787,104166,18,Jaipur
+1/5/2026,INV1725,BHEL 145,Shackle,Lifting,18,5555,99990,18,Noida
+1/6/2026,INV1726,Tata Steel 146,Turnbuckle,Safety,14,5829,81606,18,Jaipur
+1/7/2026,INV1727,Larsen & Toubro 146,Hook,Lifting,5,5615,28075,18,Jaipur
+1/8/2026,INV1728,JSW Steel 146,Chain Sling,Rigging,10,6827,68270,18,Gurugram
+1/9/2026,INV1729,Jindal Steel 146,Eye Bolt,Lifting,11,6523,71753,18,Delhi
+1/10/2026,INV1730,BHEL 146,Chain Pulley Block,Lifting,8,617,4936,18,Gurugram
+1/11/2026,INV1731,Tata Steel 147,Chain Sling,Rigging,15,1616,24240,18,Noida
+1/12/2026,INV1732,Larsen & Toubro 147,Web Sling,Safety,11,5942,65362,18,Faridabad
+1/13/2026,INV1733,JSW Steel 147,Eye Bolt,Safety,3,1769,5307,18,Jaipur
+1/14/2026,INV1734,Jindal Steel 147,Web Sling,Lifting,5,1076,5380,18,Delhi
+1/15/2026,INV1735,BHEL 147,Web Sling,Rigging,11,5727,62997,18,Noida
+1/16/2026,INV1736,Tata Steel 148,Turnbuckle,Safety,6,3135,18810,18,Faridabad
+1/17/2026,INV1737,Larsen & Toubro 148,Eye Bolt,Lifting,7,7282,50974,18,Delhi
+1/18/2026,INV1738,JSW Steel 148,Wire Rope,Rigging,4,3989,15956,18,Delhi
+1/19/2026,INV1739,Jindal Steel 148,Turnbuckle,Lifting,6,2767,16602,18,Jaipur
+1/20/2026,INV1740,BHEL 148,Wire Rope,Lifting,16,6977,111632,18,Delhi
+1/21/2026,INV1741,Tata Steel 149,Eye Bolt,Lifting,15,5442,81630,18,Noida
+1/22/2026,INV1742,Larsen & Toubro 149,Wire Rope,Safety,5,1947,9735,18,Gurugram
+1/23/2026,INV1743,JSW Steel 149,Hook,Lifting,18,7300,131400,18,Jaipur
+1/24/2026,INV1744,Jindal Steel 149,Turnbuckle,Rigging,1,2718,2718,18,Gurugram
+1/25/2026,INV1745,BHEL 149,Wire Rope,Rigging,5,2947,14735,18,Faridabad
+1/26/2026,INV1746,Tata Steel 150,Shackle,Lifting,17,1430,24310,18,Jaipur
+1/27/2026,INV1747,Larsen & Toubro 150,Chain Sling,Rigging,7,2551,17857,18,Gurugram
+1/28/2026,INV1748,JSW Steel 150,Turnbuckle,Lifting,9,2002,18018,18,Delhi
+1/29/2026,INV1749,Jindal Steel 150,Shackle,Safety,16,2427,38832,18,Jaipur
+1/30/2026,INV1750,BHEL 150,Chain Pulley Block,Rigging,8,4137,33096,18,Gurugram
+1/31/2026,INV1751,Tata Steel 151,Hook,Lifting,7,2211,15477,18,Delhi
+2/1/2026,INV1752,Larsen & Toubro 151,Eye Bolt,Rigging,2,1360,2720,18,Faridabad
+2/2/2026,INV1753,JSW Steel 151,Hook,Safety,4,5330,21320,18,Noida
+2/3/2026,INV1754,Jindal Steel 151,Shackle,Safety,5,1563,7815,18,Jaipur
+2/4/2026,INV1755,BHEL 151,Wire Rope,Rigging,13,1264,16432,18,Faridabad
+2/5/2026,INV1756,Tata Steel 152,Eye Bolt,Safety,9,6783,61047,18,Faridabad
+2/6/2026,INV1757,Larsen & Toubro 152,Shackle,Lifting,15,594,8910,18,Gurugram
+2/7/2026,INV1758,JSW Steel 152,Wire Rope,Safety,3,4708,14124,18,Delhi
+2/8/2026,INV1759,Jindal Steel 152,Hook,Safety,8,6482,51856,18,Jaipur
+2/9/2026,INV1760,BHEL 152,Chain Sling,Rigging,13,7477,97201,18,Faridabad
+2/10/2026,INV1761,Tata Steel 153,Eye Bolt,Lifting,9,5781,52029,18,Noida
+2/11/2026,INV1762,Larsen & Toubro 153,Hook,Rigging,9,7854,70686,18,Jaipur
+2/12/2026,INV1763,JSW Steel 153,Hook,Safety,18,1738,31284,18,Jaipur
+2/13/2026,INV1764,Jindal Steel 153,Chain Sling,Safety,1,1139,1139,18,Faridabad
+2/14/2026,INV1765,BHEL 153,Wire Rope,Lifting,8,7465,59720,18,Jaipur
+2/15/2026,INV1766,Tata Steel 154,Shackle,Safety,14,7608,106512,18,Noida
+2/16/2026,INV1767,Larsen & Toubro 154,Web Sling,Lifting,13,7929,103077,18,Noida
+2/17/2026,INV1768,JSW Steel 154,Wire Rope,Safety,1,1290,1290,18,Faridabad
+2/18/2026,INV1769,Jindal Steel 154,Chain Pulley Block,Lifting,7,2691,18837,18,Delhi
+2/19/2026,INV1770,BHEL 154,Shackle,Rigging,9,3335,30015,18,Delhi
+2/20/2026,INV1771,Tata Steel 155,Shackle,Rigging,20,5260,105200,18,Delhi
+2/21/2026,INV1772,Larsen & Toubro 155,Chain Pulley Block,Rigging,12,889,10668,18,Delhi
+2/22/2026,INV1773,JSW Steel 155,Shackle,Rigging,14,1373,19222,18,Noida
+2/23/2026,INV1774,Jindal Steel 155,Hook,Rigging,9,3798,34182,18,Gurugram
+2/24/2026,INV1775,BHEL 155,Hook,Rigging,6,4193,25158,18,Noida
+2/25/2026,INV1776,Tata Steel 156,Chain Pulley Block,Lifting,1,4051,4051,18,Noida
+2/26/2026,INV1777,Larsen & Toubro 156,Chain Pulley Block,Rigging,19,826,15694,18,Delhi
+2/27/2026,INV1778,JSW Steel 156,Chain Pulley Block,Lifting,9,4168,37512,18,Delhi
+2/28/2026,INV1779,Jindal Steel 156,Wire Rope,Safety,7,7634,53438,18,Delhi
+3/1/2026,INV1780,BHEL 156,Hook,Lifting,17,3687,62679,18,Noida
+3/2/2026,INV1781,Tata Steel 157,Hook,Rigging,12,1609,19308,18,Noida
+3/3/2026,INV1782,Larsen & Toubro 157,Web Sling,Lifting,6,5181,31086,18,Faridabad
+3/4/2026,INV1783,JSW Steel 157,Hook,Rigging,3,6779,20337,18,Noida
+3/5/2026,INV1784,Jindal Steel 157,Eye Bolt,Safety,18,6341,114138,18,Jaipur
+3/6/2026,INV1785,BHEL 157,Hook,Lifting,4,5560,22240,18,Delhi
+3/7/2026,INV1786,Tata Steel 158,Turnbuckle,Safety,9,4933,44397,18,Noida
+3/8/2026,INV1787,Larsen & Toubro 158,Chain Sling,Rigging,12,4420,53040,18,Noida
+3/9/2026,INV1788,JSW Steel 158,Turnbuckle,Lifting,20,2758,55160,18,Noida
+3/10/2026,INV1789,Jindal Steel 158,Hook,Safety,18,1391,25038,18,Delhi
+3/11/2026,INV1790,BHEL 158,Shackle,Lifting,9,1722,15498,18,Jaipur
+3/12/2026,INV1791,Tata Steel 159,Eye Bolt,Safety,17,6046,102782,18,Noida
+3/13/2026,INV1792,Larsen & Toubro 159,Wire Rope,Safety,14,983,13762,18,Delhi
+3/14/2026,INV1793,JSW Steel 159,Shackle,Rigging,14,1940,27160,18,Delhi
+3/15/2026,INV1794,Jindal Steel 159,Turnbuckle,Lifting,7,827,5789,18,Jaipur
+3/16/2026,INV1795,BHEL 159,Shackle,Lifting,9,2535,22815,18,Jaipur
+3/17/2026,INV1796,Tata Steel 160,Chain Sling,Safety,17,2388,40596,18,Delhi
+3/18/2026,INV1797,Larsen & Toubro 160,Shackle,Safety,4,7606,30424,18,Delhi
+3/19/2026,INV1798,JSW Steel 160,Web Sling,Safety,9,7754,69786,18,Noida
+3/20/2026,INV1799,Jindal Steel 160,Web Sling,Lifting,20,1101,22020,18,Delhi
+3/21/2026,INV1800,BHEL 160,Turnbuckle,Rigging,13,3440,44720,18,Jaipur
